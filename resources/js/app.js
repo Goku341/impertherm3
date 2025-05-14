@@ -1,6 +1,8 @@
 import './bootstrap';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import 'leaflet/dist/leaflet.css';
+import L from 'leaflet';
 
 AOS.init();
 import '../css/app.css';
